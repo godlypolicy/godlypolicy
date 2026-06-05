@@ -1,4 +1,4 @@
-## Hi there 👋
+## Godly Policy is Crucial
 
 <!--
 **godlypolicy/godlypolicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
